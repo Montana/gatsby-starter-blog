@@ -3,7 +3,7 @@ module.exports = {
     title: `chachi`,
     author: {
       name: `chachi`,
-      summary: `its all about chachi`,
+      summary: `and you'll only see the word chachi`,
     },
     description: `string`,
     siteUrl: `https://gatsbystarterblogmaster61954.gatsbyjs.io`,
