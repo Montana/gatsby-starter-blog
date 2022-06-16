@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `chachi`,
     author: {
-      name: `Montana`,
-      summary: `string`,
+      name: `chachi`,
+      summary: `its all about chachi`,
     },
     description: `string`,
     siteUrl: `https://gatsbystarterblogmaster61954.gatsbyjs.io`,
