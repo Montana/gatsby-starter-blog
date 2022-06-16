@@ -5,7 +5,7 @@ module.exports = {
       name: `chachi`,
       summary: `and you'll only see the word chachi`,
     },
-    description: `string`,
+    description: `all chachi all the time`,
     siteUrl: `https://gatsbystarterblogmaster61954.gatsbyjs.io`,
     social: {
       twitter: `string`,
