@@ -1,5 +1,5 @@
 ---
-title: chachi
+title: chachi loves doomscrolling 
 date: "2022-06-16T22:40:32.169Z"
 description: Endless Doomscrolling
 ---
