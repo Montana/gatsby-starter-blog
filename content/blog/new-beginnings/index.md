@@ -1,7 +1,7 @@
 ---
 title: chachi loves doomscrolling 
 date: "2022-06-16T22:40:32.169Z"
-description: Endless Doomscrolling
+description: Endless Doomscrolling, hang in there, the world gets worse!
 ---
 
 ## 
@@ -10,7 +10,7 @@ it's markdown chahci for reference to myself later. i'll start blogging in jan 2
 
 this seemed good though: https://endlessdoomscroller.com/
 
-hang in there, it gets worse! 
+hang in there, the world gets worse! 
 
 
 _chachi_
