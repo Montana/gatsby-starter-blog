@@ -3,12 +3,12 @@ module.exports = {
     title: `chachi`,
     author: {
       name: `Montana`,
-      summary: ``,
+      summary: `string`,
     },
-    description: ``,
+    description: `string`,
     siteUrl: `chachi.blog`,
     social: {
-      twitter: ``,
+      twitter: `string`,
     },
   },
   plugins: [
