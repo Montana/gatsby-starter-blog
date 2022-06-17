@@ -1,6 +1,6 @@
 ---
 title: doomscrolling in the day, doomscrolling in the night
-date: "2022-06-16T22:40:32.169Z"
+date: "2022-06-16T22:49:32.169Z"
 description: People tell me to stop, but what if I don't want to stop?
 ---
 
