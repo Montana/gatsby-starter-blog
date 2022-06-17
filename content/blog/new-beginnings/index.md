@@ -1,7 +1,7 @@
 ---
 title: floating point math isn't as broke as you may think
 date: "2022-06-16T22:40:32.169Z"
-description: Endless Doomscrolling, hang in there, the world gets worse!
+description: So then, why all the inaccuracies?!? 
 ---
 
 ## Is floating point math broken?
