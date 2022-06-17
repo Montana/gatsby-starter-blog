@@ -6,7 +6,7 @@ description: People tell me to stop, but what if I don't want to stop?
 
 ## Doomscrolling 
 
-Doomscrolling is the act of "nonstop scrolling" bad news that usually leads to anxiety. I've been working on a Doomscrolling aggregator, to make it easier for people to scroll all day, when I'm not working.
+_Doomscrolling_ is the act of "nonstop scrolling" bad news/headlines that usually leads to anxiety. I've been working on a Doomscrolling aggregator, to make it easier for people to scroll _ALL_ the bad news, all day. This is a side project I work on when I'm not working.
 
 ## For now
 
